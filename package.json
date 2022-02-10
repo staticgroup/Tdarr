@@ -10,7 +10,7 @@
     "lint:fix": "eslint {imports,tests}/**/* --ext .{{t,j}s{,x}} --fix"
   },
   "dependencies": {
-    "@babel/runtime": "^7.9.6",
+    "@babel/runtime": "^7.16.7",
     "@emotion/core": "^10.0.28",
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
     "@material-ui/core": "^4.9.14",
