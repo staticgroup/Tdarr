@@ -16,7 +16,7 @@
     "@material-ui/core": "^4.9.14",
     "asap": "^2.0.6",
     "babel-eslint": "^10.1.0",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^5.0.0",
     "child_process": "^1.0.2",
     "chokidar": "^3.4.0",
     "core-js": "^3.6.5",
