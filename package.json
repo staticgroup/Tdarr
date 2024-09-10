@@ -51,7 +51,7 @@
     "react-input-slider": "^5.1.7",
     "react-json-pretty": "^2.2.0",
     "react-loading": "^2.0.3",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "react-spinners": "^0.6.1",
     "react-sweet-progress": "^1.1.2",
     "react-table": "^6.11.5",
